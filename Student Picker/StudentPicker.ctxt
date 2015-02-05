@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StudentPicker()
+comment0.text=\n\ This\ constructor\ should\ read\ in\ a\ list\ of\ names\ from\ a\ file\n\ called\ names.txt\ and\ store\ each\ name\ in\ a\ list.\n
+comment1.params=
+comment1.target=java.lang.String\ chooseStudent()
+comment1.text=\n\ Returns\ the\ name\ of\ a\ pseudo-randomly\ chosen\ student\ in\ our\ class.\n\ @return\ the\ name\ of\ a\ student\ in\ our\ class.\n
+comment2.params=
+comment2.target=java.lang.String\ chooseUniqueStudent()
+comment2.text=\n\ Returns\ the\ name\ of\ a\ pseudo-randomly\ chosen\ student\ in\ our\ class.\n\ This\ method\ will\ never\ return\ the\ same\ student\ twice.\n\ @return\ the\ name\ of\ a\ unique\ student\ in\ our\ class.\n
+numComments=3

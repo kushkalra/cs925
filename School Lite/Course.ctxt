@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=myName\ myCredits\ myBlock
+comment0.target=Course(java.lang.String,\ int,\ java.lang.String)
+comment1.params=myGrade\ myName\ myCredits\ myBlock
+comment1.target=Course(int,\ java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getBlock()
+comment4.params=
+comment4.target=int\ getGrade()
+comment4.text=\nprecondition\:\ a\ student\ has\ a\ grade\npostcondition\:\ returns\ the\ numeric\ grade\ a\ student\ \ \ \ \n\ received\ in\ a\ course,\ between\ 0\ <\ x\ <\ 100.\n
+comment5.params=
+comment5.target=int\ getNumberOfCredits()
+comment5.text=\nprecondition\:\ a\ course\ has\ a\ number\ of\ credits.\npostcondition\:\ returns\ the\ number\ of\ credits\ a\ course\ is\ \n\ \ worth,\ between\ 0\ <\ x\ <\ 6.\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ Returns\ the\ string\ representation\ of\ this\ course,\n\ which\ is\ of\ the\ format\:\ Course\ name\ (\#\ credits)\ -\ Final\ Grade\:\ grade\n
+comment7.params=toCheck
+comment7.target=boolean\ validBlock(java.lang.String)
+comment7.text=\n\ precondition\:\ toCheck\ is\ not\ null\n\ postcondition\:\ returns\ true\ if\ toCheck\ is\ a\ valid\ schedule\ block,\ false\ otherwise.\n
+numComments=8

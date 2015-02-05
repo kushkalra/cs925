@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ testFractionClass()
+comment1.params=f\ num\ denom
+comment1.target=void\ checkAnswer(Fraction,\ int,\ int)
+comment2.params=f\ num
+comment2.target=void\ checkAnswer(Fraction,\ int)
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=filename
+comment0.target=Dictionary(java.lang.String)
+comment1.params=len
+comment1.target=void\ wordsOfSpecifiedLength(int)
+comment1.text=\n\ Prints\ out\ all\ the\ words\ whose\ length\ is\ the\ specified\ number\ of\ characters.\ The\ words\n\ printed\ out\ must\ retain\ their\ ORIGINAL\ case.\n\ @param\ len\ The\ word\ length\ you\ are\ searching\ for.\n
+comment2.params=
+comment2.target=void\ wordsWithAdjacentEs()
+comment2.text=\n\ Prints\ out\ all\ the\ words\ that\ contain\ at\ least\ two\ adjacent\ e's.\ The\ adjacent\ e's\ do\n\ NOT\ need\ to\ be\ of\ the\ same\ case\ (e.g.\ Ee\ counts\ as\ two\ adjacent\ e's).\ The\ words\ printed\n\ out\ must\ ren\ their\ ORIGINAL\ case.\n
+comment3.params=
+comment3.target=void\ wordsWithAllVowels()
+comment3.text=\n\ Prints\ out\ all\ the\ words\ that\ contain\ every\ vowel\ (a,\ e,\ i,\ o,\ and\ u).\ Y\ doesn't\ count.\n\ Uppercase\ vowels\ should\ also\ be\ considered\ vowels.\ The\ words\ printed\ out\ must\ retain\n\ their\ ORIGINAL\ case.\n
+numComments=4

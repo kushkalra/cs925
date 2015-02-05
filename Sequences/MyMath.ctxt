@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=a\ b
+comment0.target=long\ gcf(long,\ long)
+comment0.text=\ method\ for\ Euclid's\ Algorithm\n\ @param\ long\ a\ which\ is\ number\ ,\ long\ \ b\ which\ is\ a\ number\n\ @return\ gcf\n
+comment1.params=n
+comment1.target=long\ factorial(long)
+comment1.text=\ finding\ the\ factorial\ of\ a\ number\n\ @param\ long\ n\ which\ is\ the\ number\ we\ want\ to\ find\ the\ factorial\ of\n\ @return\ factorial\n
+numComments=2

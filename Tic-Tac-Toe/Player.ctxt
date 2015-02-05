@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=Player(java.lang.String)
+comment0.text=\n\ Sets\ String\ s\ to\ name\n
+comment1.params=scanner
+comment1.target=int\ getMove(java.util.Scanner)
+comment1.text=\n\ Gets\ the\ move\ for\ player\n\ \n\ @param\ scanner\ which\ is\ input\ by\ user\n\ return\ move\ which\ user\ enters\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\n\ Gets\ player\ to\ fill\ board\n\ \n\ \n\ Returns\ name\ for\ either\ x\ or\ o\n
+numComments=3

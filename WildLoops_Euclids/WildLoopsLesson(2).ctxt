@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=int\ findsum(int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ WildLoopsLesson\n
+comment1.params=x
+comment1.target=void\ multiplesOfThree(int)
+comment2.params=a\ b
+comment2.target=int\ gcf(int,\ int)
+comment2.text=\ method\ for\ Euclid's\ Algorithm\n\ @param\ inta,\ int\ b\n\ @return\ gcf\n
+numComments=3

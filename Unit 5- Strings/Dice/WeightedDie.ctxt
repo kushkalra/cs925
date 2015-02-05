@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=WeightedDie()
+comment0.text=\ creating\ a\ WeightedDie\ with\ a\ faceValue\ of\ 1\n\n\n
+comment1.params=
+comment1.target=int\ getValue()
+comment1.text=\ Gets\ the\ Value\ from\ roll\ method\n\ @return\ faceValue;\n
+comment2.params=
+comment2.target=void\ roll()
+comment2.text=\ rolls\ the\ Weighteddie\ and\ stores\ a\ number\ between\ 1\ and\ 9\ in\ faceValue,\ then\ stores\ 7\ 8\ 9\ as\ even\n\ \n
+comment3.params=
+comment3.target=java.lang.String\ toSting()
+comment3.text=\ provides\ a\ String\ of\ what\ the\ faceValue\ is\n\ @return\ faceValue\n
+numComments=4

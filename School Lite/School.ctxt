@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=myName
+comment0.target=School(java.lang.String)
+comment0.text=\n\ Creates\ a\ new\ school\ with\ the\ specified\ name.\n\ @param\ myName\ The\ name\ of\ this\ school.\n
+comment1.params=s
+comment1.target=void\ addStudent(Student)
+comment1.text=\n\ Adds\ a\ new\ student\ to\ this\ school.\n\ @param\ s\ The\ student\ to\ add.\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getAllStudentsInSchool()
+comment2.text=\nPrecondition\:\ there\ is\ at\ least\ one\ student\ in\ the\ school.\nPostcondition\:\ returns\ an\ ArrayList\ of\ all\ the\ students\ in\ \ \ \ \ \n\ \ the\ school.\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getSeniors()
+comment3.text=\nPrecondition\:\ there\ is\ at\ least\ one\ student\ in\ the\ school.\nPostcondition\:\ returns\ an\ ArrayList\ of\ all\ the\ seniors\ in\n\ \ \ the\ school\n
+comment4.params=
+comment4.target=Student\ getLargest()
+comment4.text=\n\ @return\ The\ Student\ with\ the\ highest\ GPA\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

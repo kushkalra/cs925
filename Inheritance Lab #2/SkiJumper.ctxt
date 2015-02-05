@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=myF\ myL
+comment0.target=SkiJumper(java.lang.String,\ java.lang.String)
+comment0.text=\n\ Create\ a\ ski\ jumper\ with\ the\ specified\ first\ name\ and\ last\ name.\n
+comment1.params=
+comment1.target=void\ fly()
+comment2.params=hours
+comment2.target=void\ train(double)
+comment3.params=
+comment3.target=int\ getJumps()
+numComments=4

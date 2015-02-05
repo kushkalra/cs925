@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=myName
+comment0.target=Student(java.lang.String)
+comment1.params=myCourse
+comment1.target=void\ addCourse(Course)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.util.ArrayList\ getCoursesTaken()
+comment3.text=\nPrecondition\:\ a\ student\ has\ taken\ at\ least\ one\ course.\nPostcondition\:\ returns\ an\ ArrayList\ of\ the\ Courses\ a\ \ \n\ student\ has\ taken.\n
+comment4.params=
+comment4.target=double\ computeGPA()
+comment4.text=\nPrecondition\:\ a\ student\ has\ taken\ at\ least\ one\ course.\nPostcondition\:\ returns\ the\ gpa\ of\ a\ student,\ between\n\ \ 0\ <\ x\ <\ 100.\ Courses\ are\ weighted\ by\ number\ of\ credits,\ so\ a\ student's\n\ \ grade\ in\ a\ 2-credit\ course\ counts\ twice\ as\ much\ as\ a\ grade\ in\ a\ 1-credit\n\ \ course,\ and\ so\ on.\n
+comment5.params=
+comment5.target=boolean\ isSenior()
+comment5.text=\nPrecondition\:\ a\ student\ has\ taken\ at\ least\ one\ course.\nPostcondition\:\ returns\ true\ if\ this\ student's\ total\ number\ of\ \n\ \ credits\ is\ >125\ and\ GPA\ is\ >\=75,\ false\ otherwise.\n
+comment6.params=
+comment6.target=int\ getTotalCredits()
+comment7.params=other
+comment7.target=int\ compareTo(Student)
+comment7.text=\n\ Compares\ two\ students\ by\ GPA.\n\ @param\ other\ The\ other\ student\ to\ compare\ to\ this\ one\n\ @return\ A\ positive\ number\ if\ this\ student\ has\ a\ higher\ GPA\ than\ the\ other\ student,\n\ \ \ \ \ \ \ \ \ A\ negative\ number\ if\ this\ student\ has\ a\ lower\ GPA\ than\ the\ other\ student,\n\ \ \ \ \ \ \ \ \ 0\ if\ the\ two\ students\ have\ the\ same\ GPA.\n
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

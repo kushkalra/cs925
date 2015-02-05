@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FunGrid()
+comment1.params=
+comment1.target=void\ moveRight()
+comment2.params=
+comment2.target=void\ moveLeft()
+comment3.params=
+comment3.target=void\ moveUp()
+comment4.params=
+comment4.target=void\ moveDown()
+comment5.params=
+comment5.target=void\ printGrid()
+numComments=6

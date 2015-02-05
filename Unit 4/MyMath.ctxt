@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=a\ b
+comment0.target=int\ gcf(int,\ int)
+comment0.text=\ method\ for\ Euclid's\ Algorithm\n\ @param\ inta,\ int\ b\n\ @return\ gcf\n
+numComments=1

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ rollTwoDice()
+comment0.text=\ rolls\ the\ dice\ twice\ and\ compiles\ there\ sum\n\ @return\ sum\n
+comment1.params=
+comment1.target=void\ playGame()
+comment1.text=\ creates\ a\ player1\ and\ player\ 2\ and\ prints\ who\ the\ winner\ is\ based\ on\ the\ sum\ of\ the\ rolls\n\ \n
+comment2.params=number
+comment2.target=int\ counter(int)
+comment2.text=\ creates\ a\ counter,\ which\ counts\ the\ number\ of\ attemps\ until\ the\ dice\ equals\ the\ random\ number\n\ @return\ counter\n\ @param\ int\ number\ an\ integer\ between\ 1\ and\ 6\n
+comment3.params=number
+comment3.target=int\ weightedCounter(int)
+comment3.text=\ creates\ a\ counter,\ which\ counts\ the\ number\ of\ attempts\ until\ the\ WeightedDie\ equals\ the\ random\ number\n\ @return\ counter\n\ @param\ int\ number\ an\ integer\ between\ 1\ and\ 6\n
+comment4.params=
+comment4.target=void\ playUnfairGame()
+comment4.text=\ creates\ a\ scenario\ where\ it\ will\ be\ a\ tie\ or\ player1\ will\ win\n\ \n
+numComments=5

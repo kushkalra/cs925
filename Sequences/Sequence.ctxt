@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=Sequence(int)
+comment0.text=\ creates\ a\ Sequence\ with\ numerator\ of\ 1\ and\ denominator\ of\ factorial\ of\ k++\n@param\ int\ n\ where\ n\ represents\ the\ number\ of\ terms\n\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\ creates\ a\ String\ of\ the\ terms\ in\ the\ Sequence\n@return\ the\ number\ of\ terms\ in\ the\ sequence\ or\ "[]"\ if\ there\ are\ no\ terms\n\n
+comment2.params=i
+comment2.target=Fraction\ getTerm(int)
+comment2.text=\ allows\ user\ to\ getTerm\ of\ Sequence\ at\ any\ point\n@param\ int\ i\ is\ the\ requested\ term\n@return\ term\ or\ null\ if\ the\ term\ requested\ is\ less\ than\ or\ equal\ to\ 0\ or\n
+comment3.params=
+comment3.target=Fraction\ sum()
+comment3.text=\ allows\ user\ to\ get\ sum\ of\ the\ sequence\n@return\ k\ the\ sum\ of\ the\ array\ in\ fraction\ form\n\n
+comment4.params=
+comment4.target=double\ approximateSum()
+comment4.text=\ allows\ user\ to\ get\ sum\ of\ the\ sequence\n@return\ k\ the\ sum\ of\ the\ array\ in\ decimal\ form\n\n
+numComments=5

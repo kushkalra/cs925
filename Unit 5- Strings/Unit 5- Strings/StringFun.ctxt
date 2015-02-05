@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=myName
+comment0.target=void\ printEachLetter(java.lang.String)
+comment0.text=\n\ Prints\ each\ letter\ of\ a\ given\ string\ (one\ per\ line).\n\ @param\ myName\ A\ string\ to\ analyze\n
+comment1.params=ltr
+comment1.target=boolean\ isVowel(char)
+comment1.text=\n\ Determines\ if\ the\ given\ letter\ is\ a\ vowel.\n\ @param\ ltr\ The\ letter\ to\ analyze\n\ @return\ True\ if\ the\ letter\ is\ a\ vowel,\ false\ otherwise.\ Y\ will\ not\ be\ considered\ a\ vowel.\n
+comment2.params=myName
+comment2.target=void\ printVowels(java.lang.String)
+comment2.text=\n\ Prints\ only\ the\ vowels\ in\ a\ given\ string\ (one\ per\ line).\n\ @param\ myName\ The\ string\ to\ analyze\n
+comment3.params=original
+comment3.target=java.lang.String\ backwardsString(java.lang.String)
+comment3.text=\n\ Returns\ a\ backwards\ copy\ of\ the\ original\ string.\n\ @param\ original\ The\ original\ string\ to\ analyze\n\ @return\ A\ backwards\ copy\ of\ the\ original\ string\n
+comment4.params=myName
+comment4.target=boolean\ isPalindrome(java.lang.String)
+comment4.text=\n\ \ Returns\ true\ if\ the\ given\ String\ is\ a\ palindrome\ (reads\ the\ same\n\ \ \ forwards\ and\ backwards\ (example\:\ "racecar")\n
+comment5.params=s
+comment5.target=java.lang.String\ removeVowels(java.lang.String)
+comment5.text=\n\ Returns\ a\ copy\ of\ the\ given\ String\ with\ all\ the\ vowels\ removed.\ (NOTE\:\ y\ is\ not\ considered\ a\ vowel)\n\ @param\ s\ The\ original\ String\ to\ process\n\ @return\ A\ copy\ of\ the\ given\ String\ with\ all\ the\ vowels\ removed.\ (NOTE\:\ y\ is\ not\ considered\ a\ vowel)\n
+numComments=6

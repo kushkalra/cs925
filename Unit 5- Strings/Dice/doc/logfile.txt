@@ -1,0 +1,44 @@
+Class documentation
+<---- javadoc command: ---->
+/Users/User/Downloads/BlueJ 3.1.1/BlueJ.app/Contents/Frameworks/jdk.framework/Versions/A/Contents/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+/Users/User/Downloads/BlueJ 3.1.1/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/Users/User/Downloads/BlueJ 3.1.1/BlueJ.app/Contents/Resources/Java/junit-4.8.2.jar:/Users/User/Desktop/Unit 5- Strings/Dice
+-d
+/Users/User/Desktop/Unit 5- Strings/Dice/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/Users/User/Downloads/BlueJ 3.1.1/BlueJ.app/Contents/Resources/Java/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/Users/User/Desktop/Unit 5- Strings/Dice/Game.java
+<---- end of javadoc command ---->
+Loading source file /Users/User/Desktop/Unit 5- Strings/Dice/Game.java...
+Constructing Javadoc information...
+Standard Doclet version 1.7.0_45
+Building tree for all the packages and classes...
+Generating /Users/User/Desktop/Unit 5- Strings/Dice/doc/Game.html...
+/Users/User/Desktop/Unit 5- Strings/Dice/Game.java:51: warning - @param argument "int" is not a parameter name.
+/Users/User/Desktop/Unit 5- Strings/Dice/Game.java:70: warning - @param argument "int" is not a parameter name.
+Generating /Users/User/Desktop/Unit 5- Strings/Dice/doc/package-frame.html...
+Generating /Users/User/Desktop/Unit 5- Strings/Dice/doc/package-summary.html...
+Generating /Users/User/Desktop/Unit 5- Strings/Dice/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /Users/User/Desktop/Unit 5- Strings/Dice/doc/allclasses-frame.html...
+Generating /Users/User/Desktop/Unit 5- Strings/Dice/doc/allclasses-noframe.html...
+Generating /Users/User/Desktop/Unit 5- Strings/Dice/doc/index.html...
+Generating /Users/User/Desktop/Unit 5- Strings/Dice/doc/stylesheet.css...
+2 warnings

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=xname\ oname
+comment0.target=Game(java.lang.String,\ java.lang.String)
+comment0.text=\n\ Creates\ a\ new\ instance\ of\ Board\n\ \n\ @param\ String\ xname,\ String\ oname\n\ \n
+comment1.params=
+comment1.target=Board\ getBoard()
+comment1.text=\n\ Gets\ the\ board\n\ \n\ \n\ @return\ board\n
+comment2.params=p
+comment2.target=Player\ getPlayer(int)
+comment2.text=\n\ Gets\ either\ an\ o\ or\ x\n\ \n\ @param\ \ int\ p\ \n\ @return\ o\ or\ x\ dependant\ upon\ value\ of\ p\n
+numComments=3

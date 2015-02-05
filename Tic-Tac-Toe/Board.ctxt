@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Board()
+comment0.text=\ Sets\ a\ new\ Board\ with\ n\ rows\ and\ c\ columns\n
+comment1.params=x\ o
+comment1.target=void\ printBoard(Player,\ Player)
+comment1.text=\ Displays\ Board\n@Player\ x,\ Player\ o\ used\ later\ to\ set\ players\ state\ in\ board\n\n
+comment2.params=r\ c
+comment2.target=boolean\ isEmpty(int,\ int)
+comment2.text=\n\ Tests\ if\ cell\ is\ empty\n\ \n\ @param\ int\ r\ rows,\ int\ c\ colums\n\ return\ cell[r][c]\ if\ cell\ is\ empty,\ false\ otherwise\n
+comment3.params=player\ r\ c
+comment3.target=boolean\ isValid(int,\ int,\ int)
+comment3.text=\n\ Trys\ to\ fill\ an\ empty\ space,\ fails\ if\ already\ occupied\n\ \n\ @param\ int\ player\ represents\ int\ value\ of\ player,\ int\ r\ rows,\ int\ c\ columns\n\ return\ cell[r][c]\ if\ cell\ is\ empty,\ false\ otherwise\n
+comment4.params=
+comment4.target=int\ isWinner()
+comment4.text=\ solutions\ for\ how\ to\ win\ a\ game\ if\ either\ an\ X\ or\ O\n\n@return\ winner\ in\ given\ scenario\n
+comment5.params=
+comment5.target=boolean\ isFull()
+comment5.text=\n\ Finds\ an\ empty\ space\ of\ the\ board\ is\ full\n\ \n\ \n\ @return\ true\ if\ board\ is\ full,\ false\ if\ empty\ space\n
+numComments=6

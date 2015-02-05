@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=a\ b\ c
+comment0.target=QuadraticFunction(int,\ int,\ int)
+comment0.text=\ equates\ the\ variables\ of\ one\ fraction\ to\ another\n@param\ int\ a,\ int\ b,\ int\ c\n\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\ Returns\ the\ quadratic\ function\ in\ a\ String\ form\n\n@return\ the\ quadratic\ function\n
+comment2.params=x
+comment2.target=double\ valueAt(double)
+comment2.text=\ passes\ a\ certain\ x\ through\ a\ quadratic\ unction\n@param\ double\ x\n@return\ result\ of\ the\ function\n
+comment3.params=other
+comment3.target=boolean\ equals(QuadraticFunction)
+comment3.text=\ Sees\ if\ two\ functions\ are\ equal\n@param\ QuadraticFunction\ other,\ another\ function\ to\ compare\ to\ \n@return\ true\ if\ they\ are\ equal,\ else\ false\n
+comment4.params=other
+comment4.target=int\ compareTo(QuadraticFunction)
+comment4.text=\ Returns\ the\ function\ that\ is\ greater,\ \n@param\ QuadraticFunction\ other,\ another\ function\ to\ compare\ to\ \n@return\ 1\ if\ the\ orignal\ function\ is\ bigger,\ -1\ if\ other\ is\ bigger,\ and\ 0\ if\ equal\n
+numComments=5
